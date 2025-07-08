@@ -44,20 +44,3 @@ College ERP using MERN Stack
 2. Sections other than academics
 3. More freedom to admin while adding new students,admins,faculties or subjects
 
-# Preview
-
-Admin
-
-https://user-images.githubusercontent.com/90241373/156794210-af4db587-1aba-4289-9196-07f2e179d9bb.mp4
-
-<br>
-
-Faculty
-
-https://user-images.githubusercontent.com/90241373/156794428-1a73579c-8116-45dd-bee4-140f3b6de2c8.mp4
-
-<br>
-
-Student
-
-https://user-images.githubusercontent.com/90241373/156794474-1ba1d10e-30c8-4ce7-881b-520d7ab6aec6.mp4
