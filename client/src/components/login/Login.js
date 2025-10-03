@@ -6,7 +6,7 @@ const Login = () => {
     <div
       className="h-screen w-screen backdrop-blur-md flex justify-center"
       style={{
-        backgroundImage:`⁠url("client/public/backgroundpic.jpeg")`,
+        backgroundImage:`⁠url("/backgroundpic.jpeg")`,
         backgroundRepeat: "no-repeat",
         backgroundPosition: "center",
         backgroundSize: "cover",
